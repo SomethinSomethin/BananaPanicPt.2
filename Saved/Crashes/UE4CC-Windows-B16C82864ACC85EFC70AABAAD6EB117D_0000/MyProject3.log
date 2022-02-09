@@ -1,0 +1,1254 @@
+﻿Log file open, 02/09/22 08:51:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.112652
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.09-01.51.53:255][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[r.TextureStreaming:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:256][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.09-01.51.53:256][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.09-01.51.53:257][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:257][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.09-01.51.53:265][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.09-01.51.53:266][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.09-01.51.53:267][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.09-01.51.53:268][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.09-01.51.53:268][  0]LogHAL: Display: Platform has ~ 6 GB [6310391808 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.09-01.51.53:268][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.09-01.51.53:268][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.09-01.51.53:268][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Scalability.ini]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.09-01.51.53:269][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.09-01.51.53:278][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.09-01.51.53:278][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.09-01.51.53:278][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.09-01.51.53:278][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Engine.ini]
+[2022.02.09-01.51.53:278][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/gamedev/Banana Panic/Saved/Config/Windows/Editor.ini]
+[2022.02.09-01.51.53:280][  0]LogInit: Computer: DESKTOP-1DPJ0F4
+[2022.02.09-01.51.53:280][  0]LogInit: User: hp
+[2022.02.09-01.51.53:280][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.09-01.51.53:280][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.09-01.51.53:280][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2022.02.09-01.51.53:280][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.09-01.51.53:280][  0]LogMemory: Process Physical Memory: 139.93 MB used, 139.93 MB peak
+[2022.02.09-01.51.53:280][  0]LogMemory: Process Virtual Memory: 112.27 MB used, 112.27 MB peak
+[2022.02.09-01.51.53:280][  0]LogMemory: Physical Memory: 4795.12 MB used,  1222.94 MB free, 6018.06 MB total
+[2022.02.09-01.51.53:280][  0]LogMemory: Virtual Memory: 134213144.00 MB used,  4584.27 MB free, 134217728.00 MB total
+[2022.02.09-01.51.53:287][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.09-01.51.53:556][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.09-01.51.53:559][  0]LogInit: Using OS detected language (en-US).
+[2022.02.09-01.51.53:559][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.09-01.51.53:582][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.09-01.51.54:033][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.09-01.51.54:071][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.09-01.51.54:158][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.09-01.51.54:158][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.09-01.51.58:415][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.09-01.51.58:420][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.09-01.51.58:420][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.09-01.51.58:420][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.09-01.51.58:420][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.09-01.51.58:493][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2022.02.09-01.51.58:493][  0]LogD3D11RHI:       2033/0/3009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:       0/0/3009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:     Description : AMD Radeon(TM) RX Vega 10 Graphics
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:     SubSysId    : 85de103c
+[2022.02.09-01.51.58:495][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.02.09-01.51.58:496][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132332544 bytes
+[2022.02.09-01.51.58:496][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.09-01.51.58:496][  0]LogD3D11RHI:     SharedSystemMemory : 3155195904 bytes
+[2022.02.09-01.51.58:496][  0]LogD3D11RHI:     AdapterLuid : 0 100790
+[2022.02.09-01.51.58:505][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.09-01.51.58:505][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.09-01.51.58:505][  0]LogWindows: EnumDisplayDevices:
+[2022.02.09-01.51.58:505][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2022.02.09-01.51.58:506][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.09-01.51.58:506][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.09-01.51.58:507][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.09-01.51.58:507][  0]LogWindows:    4. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.09-01.51.58:508][  0]LogWindows:    5. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.09-01.51.58:508][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.02.09-01.51.58:508][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX Vega 10 Graphics
+[2022.02.09-01.51.58:508][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.40.36.04 (internal:26.20.14036.4002, unified:26.20.14036.4002)
+[2022.02.09-01.51.58:508][  0]LogD3D11RHI:      Driver Date: 7-15-2020
+[2022.02.09-01.51.58:508][  0]LogRHI: Texture pool is 3176 MB (70% of 4538 MB)
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     Description : AMD Radeon(TM) RX Vega 10 Graphics
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     SubSysId    : 85de103c
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132332544 bytes
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     SharedSystemMemory : 3155195904 bytes
+[2022.02.09-01.51.58:543][  0]LogD3D11RHI:     AdapterLuid : 0 100790
+[2022.02.09-01.51.58:583][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 7ffffbf.
+[2022.02.09-01.51.58:583][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.09-01.51.58:583][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.09-01.51.58:583][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.09-01.51.58:635][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.02.09-01.51.59:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.09-01.51.59:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.09-01.51.59:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.09-01.51.59:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.09-01.51.59:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.09-01.51.59:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.09-01.51.59:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.09-01.51.59:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.09-01.51.59:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.09-01.51.59:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.09-01.51.59:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.09-01.51.59:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.09-01.51.59:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.09-01.51.59:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.09-01.51.59:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.09-01.51.59:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.09-01.51.59:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.09-01.51.59:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.09-01.51.59:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.09-01.51.59:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.09-01.51.59:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.09-01.51.59:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.09-01.51.59:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.09-01.51.59:416][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.09-01.51.59:487][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.09-01.51.59:603][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.09-01.51.59:765][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.09-01.51.59:767][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (D:/uni/gamedev/Banana Panic/Intermediate/Shaders/WorkingDirectory/16852/).
+[2022.02.09-01.51.59:767][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hp/AppData/Local/Temp/UnrealShaderWorkingDir/21B642A84E87C4ECDD38028ABB5AFD80/'.
+[2022.02.09-01.51.59:769][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.09-01.51.59:769][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.09-01.51.59:770][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.09-01.52.04:653][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: Loaded boot cache 0.18s 145MB C:/Users/hp/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hp/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/uni/gamedev/Banana Panic/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/uni/gamedev/Banana Panic/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.09-01.52.04:832][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.09-01.52.04:868][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.09-01.52.04:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.09-01.52.04:868][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.09-01.52.04:965][  0]LogDerivedDataCache: Speed tests for C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2022.02.09-01.52.04:965][  0]LogDerivedDataCache: Display: Performance to C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.56ms. RandomReadSpeed=12.00MBs, RandomWriteSpeed=76.87MBs. Assigned SpeedClass 'Local'
+[2022.02.09-01.52.04:970][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.09-01.52.04:970][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.09-01.52.04:970][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.09-01.52.05:053][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.09-01.52.05:086][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.09-01.52.05:151][  0]LogAssetRegistry: FAssetRegistry took 0.0077 seconds to start up
+[2022.02.09-01.52.06:054][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.09-01.52.06:054][  0]LogInit: Active device profile: [0000014C9EE42C00][0000014C9A51AD80 49] Windows
+[2022.02.09-01.52.06:054][  0]LogInit: Profiles: [0000014C9EE42C00][0000014C9A51AD80 49] Windows, [0000014C9EDE2000][0000014C9A522F00 49] WindowsNoEditor, [0000014C9EE42000][0000014C9A527080 49] WindowsServer, [0000014C9EDE2B00][0000014C9A52B200 49] WindowsClient, [0000014C9EE41500][0000014C9A52F380 49] IOS, [0000014C9EDE2200][0000014C9A533500 49] iPadAir, [0000014C9EE40A00][0000014C9A537680 49] iPadAir2, [0000014C9ED81D00][0000014C9A53F940 49] IPadPro, [0000014C9ED81E00][0000014C9A53B980 49] iPadAir3, [0000014C9EDE3300][0000014C9A543B00 49] iPadAir4, [0000014C9ED82D00][0000014C9A546100 49] iPadMini2, [0000014C9EDE1500][0000014C9A54A280 49] iPadMini3, [0000014C9ED83900][0000014C9A54E400 49] iPadMini4, [0000014C9EDE0400][0000014C9A552580 49] iPadMini5, [0000014C9EDBD300][0000014C9A55A840 49] iPhone6, [0000014C9EDBD400][0000014C9A556880 49] iPodTouch6, [0000014C9EE42A00][0000014C9A55EAC0 49] iPhone7, [0000014C9EE43200][0000014C9A51EB00 49] iPodTouch7, [0000014C9ED83C00][0000014C9A562C40 49] iPhone5S, [0000014C9EE42800][0000014C9A566D80 49] iPhone6Plus, [0000014C9ED81B00][0000014C9F232F00 49] iPhone6S, [0000014C9EE42200][0000014C9F237080 49] iPhone6SPlus, [0000014C9ED82E00][0000014C9F23B200 49] iPhone7Plus, [0000014C9EE40100][0000014C9F23F380 49] iPhoneSE, [0000014C9EDBC200][0000014C9F243500 49] iPhone8, [0000014C9ED82300][0000014C9F247680 49] iPhone8Plus, [0000014C9EDBCF00][0000014C9F24B800 49] iPhoneX, [0000014C9ED82800][0000014C9F24F980 49] iPhoneXS, [0000014C9EDBF900][0000014C9F253B00 49] iPhoneXSMax, [0000014C9ED83100][0000014C9F256100 49] iPhoneXR, [0000014C9EDBF300][0000014C9F25A280 49] iPhone11, [0000014C9ED82F00][0000014C9F25E400 49] iPhone11Pro, [0000014C9EDBD100][0000014C9F262580 49] iPhone11ProMax, [0000014C9ED83E00][0000014C9F266700 49] iPhoneSE2, [0000014C9EDBCD00][0000014C9F26A880 49] iPhone12Mini, [0000014C9ED82B00][0000014C9F26EA00 49] iPhone12, [0000014C9EDBDD00][0000014C9A56AB40 49] iPhone12Pro, [0000014C9EE42300][0000014C9F272C80 49] iPhone12ProMax, [0000014C9EDBF500][0000014C9F276DC0 49] iPadPro105, [0000014C9EE40B00][0000014C9F27AF00 49] iPadPro129, [0000014C9EDBE200][0000014C9F283080 49] iPadPro97, [0000014C9EE43700][0000014C9F287200 49] iPadPro2_129, [0000014C9EDBC700][0000014C9F28B380 49] iPad5, [0000014C9EE43500][0000014C9F28F500 49] iPad6, [0000014C9EDBDB00][0000014C9F293680 49] iPad7, [0000014C9EE40E00][0000014C9F297800 49] iPad8, [0000014C9EDBFA00][0000014C9F29B980 49] iPadPro11, [0000014C9EE41900][0000014C9F29FB00 49] iPadPro2_11, [0000014C9EDBEB00][0000014C9F2A2100 49] iPadPro3_129, [0000014C9EE40900][0000014C9F2A6280 49] iPadPro4_129, [0000014C9EDBEC00][0000014C9F2AA400 49] AppleTV, [0000014C9EE42E00][0000014C9F2AE580 49] AppleTV4K, [0000014C9EDBE400][0000014C9F2B2700 49] TVOS, [0000014C9EE41D00][0000014C9F2B6880 49] Mac, [0000014C9EDBC300][0000014C9F2BAA00 49] MacClient, [0000014C9EE43A00][0000014C9F2BEB80 49] MacNoEditor, [0000014C9EDBED00][0000014C9F2C2D00 49] MacServer, [0000014C9EE40600][0000014C9F27EE40 49] Linux, [0000014C9EDBFC00][0000014C9F2C6F80 49] LinuxAArch64, [0000014C9EE40700][0000014C9F2CB0C0 49] LinuxNoEditor, [0000014C9EDBE600][0000014C9F2D3240 49] LinuxAArch64NoEditor, [0000014C9EE43D00][0000014C9F2D73C0 49] LinuxClient, [0000014C9EDBEE00][0000014C9F2DB540 49] LinuxAArch64Client, [0000014C9EE40D00][0000014C8D4F16C0 49] LinuxServer, [0000014C9EDBF800][0000014C8D4F5840 49] LinuxAArch64Server, [0000014C9EE42400][0000014C8D4F99C0 49] Android, [0000014C9EDBE900][0000014C8D4FDB40 49] Android_Low, [0000014C9EE41E00][0000014C8D500140 49] Android_Mid, [0000014C9EDBFE00][0000014C8D5042C0 49] Android_High, [0000014C9EE40300][0000014C8D508440 49] Android_Default, [0000014C9EDBE500][0000014C8D50C5C0 49] Android_Adreno4xx, [0000014C9EE41800][0000014C8D510740 49] Android_Adreno5xx_Low, [0000014C9EDBCA00][0000014C8D5148C0 49] Android_Adreno5xx, [0000014C9EE43600][0000014C8D518A40 49] Android_Adreno6xx, [0000014C9EDBD200][0000014C9F2DEBC0 49] Android_Adreno6xx_Vulkan, [0000014C9EE43000][0000014C9F2E2D40 49] Android_Mali_T6xx, [0000014C9EDBDE00][0000014C9F2E6EC0 49] Android_Mali_T7xx, [0000014C9EE40C00][0000014C9F2CF000 49] Android_Mali_T8xx, [0000014C9EDBF000][0000014C9F2EB140 49] Android_Mali_G71, [0000014C9EE41600][0000014C9F2EF280 49] Android_Mali_G72, [0000014C9EDBCC00][0000014C9F2F33C0 49] Android_Mali_G72_Vulkan, [0000014C9EE42700][0000014C9F2FB540 49] Android_Mali_G76, [0000014C9EDBD900][0000014C9F2FF6C0 49] Android_Mali_G76_Vulkan, [0000014C9EDE2F00][0000014C9F303840 49] Android_Mali_G77, [0000014C9ED80B00][0000014C9F3079C0 49] Android_Mali_G77_Vulkan, [0000014C9EDE1900][0000014C9F30BB40 49] Android_Mali_G78, [0000014C9ED81200][0000014C9F30E140 49] Android_Mali_G78_Vulkan, [0000014C9EDE3000][0000014C9F3122C0 49] Android_Mali_G710, [0000014C9ED82400][0000014C9F316440 49] Android_Mali_G710_Vulkan, [0000014C9EDE3F00][0000014C9F31A5C0 49] Android_Vulkan_SM5, [0000014C9ED80700][0000014C9F31E740 49] Android_PowerVR_G6xxx, [0000014C9EDE2500][0000014C9F3228C0 49] Android_PowerVR_GT7xxx, [0000014C9ED82000][0000014C9F326A40 49] Android_PowerVR_GE8xxx, [0000014C9EDE3B00][0000014C9F32ABC0 49] Android_PowerVR_GM9xxx, [0000014C9ED80600][0000014C9F32ED40 49] Android_PowerVR_GM9xxx_Vulkan, [0000014C9EDE1C00][0000014C9F332EC0 49] Android_TegraK1, [0000014C9ED81600][0000014C9F337040 49] Android_Unknown_Vulkan, [0000014C9EDE0A00][0000014C9F2F7180 49] Lumin, [0000014C9ED80A00][0000014C9F33B2C0 49] Lumin_Desktop, [0000014C9EDE2E00][0000014C9F33F400 49] HoloLens, 
+[2022.02.09-01.52.06:662][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.09-01.52.06:662][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.09-01.52.06:662][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.09-01.52.06:662][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.09-01.52.06:663][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.09-01.52.06:759][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3986482189)
+[2022.02.09-01.52.08:530][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.09-01.52.08:738][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.09-01.52.08:758][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.09-01.52.08:758][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.09-01.52.08:758][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.09-01.52.09:841][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5C9E4F5D4AB0FA934C5B7E90501FA883 | Instance: 5C0399DC421272A43D67F98D8FCB84E7 (DESKTOP-1DPJ0F4-16852).
+[2022.02.09-01.52.10:741][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.09-01.52.10:779][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.09-01.52.10:864][  0]LogPython: Using Python 3.7.7
+[2022.02.09-01.52.12:665][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.09-01.52.12:666][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.09-01.52.12:666][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.02.09-01.52.13:051][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.13:051][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.13:075][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.13:082][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.13:101][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.13:106][  0]LogUProjectInfo: Found projects:
+[2022.02.09-01.52.13:460][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.09-01.52.13:501][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.09-01.52.13:501][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.09-01.52.13:593][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.09-01.52.13:784][  0]LogCollectionManager: Loaded 0 collections in 0.002433 seconds
+[2022.02.09-01.52.13:837][  0]LogFileCache: Scanning file cache for directory 'D:/uni/gamedev/Banana Panic/Saved/Collections/' took 0.00s
+[2022.02.09-01.52.13:837][  0]LogFileCache: Scanning file cache for directory 'D:/uni/gamedev/Banana Panic/Content/Developers/hp/Collections/' took 0.00s
+[2022.02.09-01.52.13:837][  0]LogFileCache: Scanning file cache for directory 'D:/uni/gamedev/Banana Panic/Content/Collections/' took 0.00s
+[2022.02.09-01.52.13:837][  0]LogOcInput: OculusInput pre-init called
+[2022.02.09-01.52.14:307][  0]LogEngine: Initializing Engine...
+[2022.02.09-01.52.14:400][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.09-01.52.14:401][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.09-01.52.14:401][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.09-01.52.14:409][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2022.02.09-01.52.14:600][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.09-01.52.14:662][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.09-01.52.14:674][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.09-01.52.14:681][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.09-01.52.14:683][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.09-01.52.14:685][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.09-01.52.14:685][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.09-01.52.14:686][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.09-01.52.14:687][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.09-01.52.14:689][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.09-01.52.14:689][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.09-01.52.14:689][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.09-01.52.14:690][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.09-01.52.14:731][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.09-01.52.14:731][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.09-01.52.14:754][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2022.02.09-01.52.14:756][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.09-01.52.14:759][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.09-01.52.14:759][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.09-01.52.14:762][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.09-01.52.14:763][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.09-01.52.14:763][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.09-01.52.14:764][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.09-01.52.14:764][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.09-01.52.14:764][  0]LogInit: FAudioDevice initialized.
+[2022.02.09-01.52.14:766][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.09-01.52.14:768][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.09-01.52.14:897][  0]LogDerivedDataCache: Saved boot cache 0.13s 145MB C:/Users/hp/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.09-01.52.14:898][  0]LogInit: Texture streaming: Disabled
+[2022.02.09-01.52.14:932][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.09-01.52.14:940][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.09-01.52.14:940][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.09-01.52.14:944][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.09-01.52.14:989][  0]LogInit: Transaction tracking system initialized
+[2022.02.09-01.52.15:052][  0]BlueprintLog: New page: Editor Load
+[2022.02.09-01.52.15:241][  0]LocalizationService: Localization service is disabled
+[2022.02.09-01.52.15:317][  0]TimingProfiler: Initialize
+[2022.02.09-01.52.15:319][  0]TimingProfiler: OnSessionChanged
+[2022.02.09-01.52.15:320][  0]LoadingProfiler: Initialize
+[2022.02.09-01.52.15:321][  0]LoadingProfiler: OnSessionChanged
+[2022.02.09-01.52.15:321][  0]NetworkingProfiler: Initialize
+[2022.02.09-01.52.15:321][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.09-01.52.15:321][  0]MemoryProfiler: Initialize
+[2022.02.09-01.52.15:321][  0]MemoryProfiler: OnSessionChanged
+[2022.02.09-01.52.15:805][  0]LogFileCache: Scanning file cache for directory 'D:/uni/gamedev/Banana Panic/Content/' took 0.00s
+[2022.02.09-01.52.15:806][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.09-01.52.15:806][  0]LogCook: Display: Mobile HDR setting 0
+[2022.02.09-01.52.16:479][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.09-01.52.16:496][  0]SourceControl: Source control is disabled
+[2022.02.09-01.52.16:497][  0]LogUnrealEdMisc: Loading editor; pre map load, took 29.133
+[2022.02.09-01.52.16:513][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.09-01.52.16:515][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.16:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.16:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.09-01.52.16:530][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.02.09-01.52.16:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.02.09-01.52.16:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.02.09-01.52.16:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.02.09-01.52.16:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.02.09-01.52.16:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.02.09-01.52.16:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.02.09-01.52.16:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.02.09-01.52.16:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.02.09-01.52.16:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.02.09-01.52.16:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.02.09-01.52.16:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.02.09-01.52.16:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.02.09-01.52.16:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.02.09-01.52.16:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.02.09-01.52.16:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.02.09-01.52.16:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.02.09-01.52.16:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.02.09-01.52.16:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Fire01.uasset"
+[2022.02.09-01.52.16:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.02.09-01.52.16:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.02.09-01.52.16:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.02.09-01.52.16:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Light01.uasset"
+[2022.02.09-01.52.16:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.02.09-01.52.16:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Light02.uasset"
+[2022.02.09-01.52.16:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.02.09-01.52.16:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.02.09-01.52.16:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.02.09-01.52.16:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.02.09-01.52.16:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.02.09-01.52.16:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.02.09-01.52.16:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.02.09-01.52.16:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.02.09-01.52.16:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.02.09-01.52.16:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Steam01.uasset"
+[2022.02.09-01.52.16:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.02.09-01.52.16:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.02.09-01.52.16:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.02.09-01.52.16:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.02.09-01.52.16:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.02.09-01.52.16:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.02.09-01.52.16:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.02.09-01.52.16:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.02.09-01.52.16:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.02.09-01.52.16:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.02.09-01.52.16:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.02.09-01.52.16:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.02.09-01.52.16:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.02.09-01.52.16:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.02.09-01.52.16:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.02.09-01.52.16:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.02.09-01.52.17:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.02.09-01.52.17:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.02.09-01.52.17:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.02.09-01.52.17:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.02.09-01.52.17:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.02.09-01.52.17:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.02.09-01.52.17:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/StarterMap.umap"
+[2022.02.09-01.52.17:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.02.09-01.52.17:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.02.09-01.52.17:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.02.09-01.52.17:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.02.09-01.52.17:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.02.09-01.52.17:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.02.09-01.52.17:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.02.09-01.52.17:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.02.09-01.52.17:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.02.09-01.52.17:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.02.09-01.52.17:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.02.09-01.52.17:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.02.09-01.52.17:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.02.09-01.52.17:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.02.09-01.52.17:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.02.09-01.52.17:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.02.09-01.52.17:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.02.09-01.52.17:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.02.09-01.52.17:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.02.09-01.52.17:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.02.09-01.52.17:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.02.09-01.52.17:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.02.09-01.52.17:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.02.09-01.52.17:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.02.09-01.52.17:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.02.09-01.52.17:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.02.09-01.52.17:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.02.09-01.52.17:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.02.09-01.52.17:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.02.09-01.52.17:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.02.09-01.52.17:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.02.09-01.52.17:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.02.09-01.52.17:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.02.09-01.52.17:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.02.09-01.52.17:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.02.09-01.52.17:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.02.09-01.52.17:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.02.09-01.52.17:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.02.09-01.52.17:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.02.09-01.52.17:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.02.09-01.52.17:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.02.09-01.52.17:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.02.09-01.52.17:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.02.09-01.52.17:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.02.09-01.52.17:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.02.09-01.52.17:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.02.09-01.52.17:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.02.09-01.52.17:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.02.09-01.52.17:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.02.09-01.52.17:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.02.09-01.52.17:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.02.09-01.52.17:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.02.09-01.52.17:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.02.09-01.52.17:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.02.09-01.52.17:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.02.09-01.52.17:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.02.09-01.52.17:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.02.09-01.52.17:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.02.09-01.52.17:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.02.09-01.52.17:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.02.09-01.52.17:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.02.09-01.52.17:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.02.09-01.52.17:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.02.09-01.52.17:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.02.09-01.52.17:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.02.09-01.52.17:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Door.uasset"
+[2022.02.09-01.52.17:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.02.09-01.52.17:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.02.09-01.52.17:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.02.09-01.52.17:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.02.09-01.52.17:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.02.09-01.52.17:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.02.09-01.52.17:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.02.09-01.52.17:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.02.09-01.52.17:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.02.09-01.52.17:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.02.09-01.52.17:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.02.09-01.52.17:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.02.09-01.52.17:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.02.09-01.52.17:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.02.09-01.52.17:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.02.09-01.52.17:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.02.09-01.52.17:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.02.09-01.52.18:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.02.09-01.52.18:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.02.09-01.52.18:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.02.09-01.52.18:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.02.09-01.52.18:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.02.09-01.52.18:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.02.09-01.52.18:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.02.09-01.52.18:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.02.09-01.52.18:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.02.09-01.52.18:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.02.09-01.52.18:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.02.09-01.52.18:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.02.09-01.52.18:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.02.09-01.52.18:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.02.09-01.52.18:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.02.09-01.52.18:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.02.09-01.52.18:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.02.09-01.52.18:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.02.09-01.52.18:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.02.09-01.52.18:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.02.09-01.52.18:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.02.09-01.52.18:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.02.09-01.52.18:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.02.09-01.52.18:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.02.09-01.52.18:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.02.09-01.52.18:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.02.09-01.52.18:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.02.09-01.52.18:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.02.09-01.52.18:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.02.09-01.52.18:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.02.09-01.52.18:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.02.09-01.52.18:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.02.09-01.52.18:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.02.09-01.52.18:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.02.09-01.52.18:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.02.09-01.52.18:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.02.09-01.52.18:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.02.09-01.52.18:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.02.09-01.52.18:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.02.09-01.52.18:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.02.09-01.52.18:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.02.09-01.52.18:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.02.09-01.52.18:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.02.09-01.52.18:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.02.09-01.52.18:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.02.09-01.52.18:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.02.09-01.52.18:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.02.09-01.52.18:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.02.09-01.52.18:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.02.09-01.52.18:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.02.09-01.52.18:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.02.09-01.52.18:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.02.09-01.52.18:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.02.09-01.52.18:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.02.09-01.52.18:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.02.09-01.52.18:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.02.09-01.52.18:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.02.09-01.52.18:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.02.09-01.52.19:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.02.09-01.52.19:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.02.09-01.52.19:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.02.09-01.52.19:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.02.09-01.52.19:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.02.09-01.52.19:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.02.09-01.52.19:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.02.09-01.52.19:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.02.09-01.52.19:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.02.09-01.52.19:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.02.09-01.52.19:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.02.09-01.52.19:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.02.09-01.52.19:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.02.09-01.52.19:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.02.09-01.52.19:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.02.09-01.52.19:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.02.09-01.52.19:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.02.09-01.52.19:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.02.09-01.52.19:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.02.09-01.52.19:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.02.09-01.52.19:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.02.09-01.52.19:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.02.09-01.52.19:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.02.09-01.52.19:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.02.09-01.52.19:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.02.09-01.52.19:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.02.09-01.52.19:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.02.09-01.52.19:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.02.09-01.52.19:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.02.09-01.52.19:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.02.09-01.52.19:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.02.09-01.52.19:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.02.09-01.52.19:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.02.09-01.52.19:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.02.09-01.52.19:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.02.09-01.52.19:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.02.09-01.52.19:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.02.09-01.52.19:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.02.09-01.52.19:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.02.09-01.52.19:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.02.09-01.52.19:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.02.09-01.52.19:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.02.09-01.52.19:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.02.09-01.52.20:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.02.09-01.52.20:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.02.09-01.52.20:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.02.09-01.52.20:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.02.09-01.52.20:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.02.09-01.52.20:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.02.09-01.52.20:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.02.09-01.52.20:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.02.09-01.52.20:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.02.09-01.52.20:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.02.09-01.52.20:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.02.09-01.52.20:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.02.09-01.52.20:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.02.09-01.52.20:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.02.09-01.52.20:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.02.09-01.52.20:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.02.09-01.52.20:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.02.09-01.52.20:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.02.09-01.52.20:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.02.09-01.52.20:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.02.09-01.52.20:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.02.09-01.52.20:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.02.09-01.52.20:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.02.09-01.52.20:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.02.09-01.52.20:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.02.09-01.52.20:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.02.09-01.52.20:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.02.09-01.52.20:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.02.09-01.52.20:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/uni/gamedev/Banana Panic/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.02.09-01.52.20:750][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.02.09-01.52.20:868][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.02.09-01.52.20:891][  0]LogSavePackage: Moving 'D:/uni/gamedev/Banana Panic/Saved/Floor_400x40014A0336A43D544266E22AC9E3BDA6B52.tmp' to 'D:/uni/gamedev/Banana Panic/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.02.09-01.52.20:894][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.02.09-01.52.20:895][  0]Cmd: MAP LOAD FILE="D:/uni/gamedev/Banana Panic/Content/2DSideScrollerBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.09-01.52.20:896][  0]LightingResults: New page: Lighting Build
+[2022.02.09-01.52.20:905][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.09-01.52.20:908][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.09-01.52.20:913][  0]MapCheck: New page: Map Check
+[2022.02.09-01.52.20:913][  0]LightingResults: New page: Lighting Build
+[2022.02.09-01.52.20:931][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.09-01.52.20:954][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.02.09-01.52.21:016][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.02.09-01.52.21:017][  0]LogAIModule: Creating AISystem for world Menu
+[2022.02.09-01.52.21:024][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.09-01.52.21:038][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.02.09-01.52.21:039][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.09-01.52.21:039][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.02.09-01.52.21:039][  0]LogFileHelpers: Loading map 'Menu' took 0.145
+[2022.02.09-01.52.21:084][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.720
+[2022.02.09-01.52.21:295][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-01.52.21:305][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-01.52.21:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-01.52.21:326][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.09-01.52.21:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0145 seconds. Added 3822 classes and 928 folders.
+[2022.02.09-01.52.21:524][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.09-01.52.21:542][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.09-01.52.21:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.09-01.52.21:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.09-01.52.21:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000887
+[2022.02.09-01.52.21:558][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.09-01.52.21:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.09-01.52.21:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.09-01.52.21:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.02.09-01.52.21:566][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.09-01.52.21:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.09-01.52.21:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.09-01.52.21:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.02.09-01.52.21:569][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.21:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.09-01.52.21:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.09-01.52.21:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.02.09-01.52.21:579][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.09-01.52.21:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.09-01.52.21:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.09-01.52.21:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.02.09-01.52.21:586][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.09-01.52.21:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.09-01.52.21:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:587][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.09-01.52.21:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.02.09-01.52.21:595][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.09-01.52.21:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.09-01.52.21:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.09-01.52.21:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2022.02.09-01.52.21:607][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.09-01.52.21:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.09-01.52.21:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:607][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.09-01.52.21:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.02.09-01.52.21:617][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.09-01.52.21:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.09-01.52.21:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.09-01.52.21:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:627][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.09-01.52.21:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.09-01.52.21:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:627][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.09-01.52.21:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:634][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.09-01.52.21:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.09-01.52.21:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:634][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.09-01.52.21:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.09-01.52.21:643][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.09-01.52.21:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.09-01.52.21:643][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:643][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.09-01.52.21:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.02.09-01.52.21:651][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.21:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.09-01.52.21:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:651][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.09-01.52.21:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:659][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.09-01.52.21:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.09-01.52.21:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.09-01.52.21:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.02.09-01.52.21:666][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.09-01.52.21:666][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:666][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.09-01.52.21:666][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:666][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.09-01.52.21:666][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:674][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.09-01.52.21:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.09-01.52.21:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.09-01.52.21:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:682][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.09-01.52.21:682][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:682][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.09-01.52.21:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:682][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.09-01.52.21:682][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:691][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.09-01.52.21:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.09-01.52.21:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:691][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.09-01.52.21:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.02.09-01.52.21:698][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.21:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.09-01.52.21:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.09-01.52.21:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.02.09-01.52.21:710][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.21:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.09-01.52.21:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.09-01.52.21:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.02.09-01.52.21:718][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.09-01.52.21:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.09-01.52.21:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:718][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.09-01.52.21:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.09-01.52.21:726][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.09-01.52.21:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.09-01.52.21:726][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:726][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.09-01.52.21:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.02.09-01.52.21:735][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.09-01.52.21:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.09-01.52.21:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.09-01.52.21:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.09-01.52.21:743][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.09-01.52.21:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.09-01.52.21:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:743][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.09-01.52.21:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.02.09-01.52.21:751][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.09-01.52.21:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.09-01.52.21:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.09-01.52.21:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.21:760][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.09-01.52.21:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.09-01.52.21:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.09-01.52.21:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.09-01.52.21:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.09-01.52.21:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.02.09-01.52.22:097][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.02.09-01.52.22:104][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.02.09-01.52.22:277][  0]LogSlate: Took 0.010053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.09-01.52.22:289][  0]LogSlate: Took 0.008237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.09-01.52.22:299][  0]LogSlate: Took 0.006971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.09-01.52.22:444][  0]LogRenderer: Reallocating scene render targets to support 1028x572 Format 10 NumSamples 1 (Frame:1).
+[2022.02.09-01.52.22:518][  0]LogSlate: Took 0.009240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.09-01.52.22:665][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.02.09-01.52.22:665][  0]LogLoad: (Engine Initialization) Total time: 35.30 seconds
+[2022.02.09-01.52.22:665][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.09-01.52.22:705][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.02.09-01.52.22:706][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.02.09-01.52.22:896][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/uni/gamedev/Banana Panic/Content/' took 0.19s
+[2022.02.09-01.52.22:904][  1]LogAssetRegistry: Asset discovery search completed in 17.7555 seconds
+[2022.02.09-01.52.22:921][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2022.02.09-01.53.20:056][904]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.09-01.53.20:398][904]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.02.09-01.53.20:560][904]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.02.09-01.53.20:959][904]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.02.09-01.53.20:968][904]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.02.09-01.53.22:867][904]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.02.09-01.53.22:874][904]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.02.09-01.53.22:882][904]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.02.09-01.53.22:893][904]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.02.09-01.53.22:904][904]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.02.09-01.53.22:914][904]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.02.09-01.53.22:924][904]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.02.09-01.53.22:932][904]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.02.09-01.53.22:939][904]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.02.09-01.53.22:949][904]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.02.09-01.53.23:343][904]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.02.09-01.53.23:343][904]LogObjectTools: Currently 2 active worlds: /Game/2DSideScrollerBP/Maps/Menu.Menu, /Engine/Transient.World_0
+[2022.02.09-01.53.23:360][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.02.09-01.53.28:736][904]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.09-01.53.28:792][904]LogUObjectGlobals: Force Deleting 270 Package(s):
+	Asset Name: /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2022.02.09-01.53.28:799][904]LogSlate: Took 0.000686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.09-01.53.37:257][904]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.02.09-01.53.37:272][904]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.02.09-01.53.37:333][904]LogStaticMesh: Building static mesh Pillar_50x500...
+[2022.02.09-01.53.37:334][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2022.02.09-01.53.37:369][904]LogStaticMesh: Building static mesh SM_AssetPlatform...
+[2022.02.09-01.53.37:410][904]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2022.02.09-01.53.37:465][904]LogStaticMesh: Building static mesh Wall_400x200...
+[2022.02.09-01.53.37:465][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2022.02.09-01.53.37:480][904]LogStaticMesh: Building static mesh Wall_400x300...
+[2022.02.09-01.53.37:481][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2022.02.09-01.53.37:500][904]LogStaticMesh: Building static mesh Wall_400x400...
+[2022.02.09-01.53.37:500][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2022.02.09-01.53.37:517][904]LogStaticMesh: Building static mesh Wall_500x500...
+[2022.02.09-01.53.37:519][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+[2022.02.09-01.53.37:533][904]LogStaticMesh: Building static mesh Wall_Door_400x300...
+[2022.02.09-01.53.37:534][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2022.02.09-01.53.37:547][904]LogStaticMesh: Building static mesh Wall_Door_400x400...
+[2022.02.09-01.53.37:548][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2022.02.09-01.53.37:566][904]LogStaticMesh: Building static mesh Wall_Window_400x300...
+[2022.02.09-01.53.37:568][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2022.02.09-01.53.37:589][904]LogStaticMesh: Building static mesh Wall_Window_400x400...
+[2022.02.09-01.53.37:590][904]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2022.02.09-01.53.37:621][904]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: D8BF2EB666A562350ECB0CF20DAF7F6EB1B2BA40), compiling. 
+[2022.02.09-01.53.37:627][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:627][904]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.09-01.53.37:631][904]LogMaterial: Display: Missing cached shadermap for M_Lamp in PCD3D_SM5, Default, SM5 (DDC key hash: D8BF2EB666A562350ECB0CF20DAF7F6EB1B2BA40), compiling. 
+[2022.02.09-01.53.37:632][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Props\Materials\M_Lamp.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:632][904]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.09-01.53.37:653][904]LogStaticMesh: Building static mesh SM_Lamp_Ceiling...
+[2022.02.09-01.53.37:671][904]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2022.02.09-01.53.37:714][904]LogMaterial: Display: Missing cached shadermap for M_Burst in PCD3D_SM5, Default, SM5 (DDC key hash: B75E18FB2E8ED1DD31F404696ABA913BAA0CF6F1), compiling. 
+[2022.02.09-01.53.37:715][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:715][904]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.09-01.53.37:718][904]LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: C0B92B488B9B49C99FF4D7419B0B47DE2BFF8ADD), compiling. 
+[2022.02.09-01.53.37:719][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:719][904]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.02.09-01.53.37:722][904]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.02.09-01.53.37:723][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:723][904]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.09-01.53.37:723][904]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.02.09-01.53.37:725][904]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.02.09-01.53.37:725][904]LogMaterial: Warning: [AssetLog] D:\uni\gamedev\Banana Panic\Content\StarterContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.09-01.53.37:725][904]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.09-01.53.37:725][904]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.02.09-01.53.37:753][904]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
