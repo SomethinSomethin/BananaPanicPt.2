@@ -279,21 +279,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "03AA0268DB35C2466FDA4AF069E0C5D5D663D5C0",
-			"Assets": [
-				"/Paper2D/TranslucentUnlitSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "56131BFC26F3B0FC059440F592ED35BF08398004",
-			"Assets": [
-				"/Game/2DSideScrollerBP/VIdeo/Endingscreen_Video_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "537102711A9143D43FB976C47DECF670C84FC6C3",
 			"Assets": [
 				"/Game/2DSideScrollerBP/Effect/puff"
+			]
+		},
+		{
+			"ShaderMapHash": "03AA0268DB35C2466FDA4AF069E0C5D5D663D5C0",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
 			]
 		}
 	]
